@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    font-family: 'MS Sans Serif', 'Geneva', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #00807F;
+    height: 100vh;
+    width: 100vw;
+    color: #FFFFFF;    
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: silver;
+    border-radius: 0.1vw;
+    padding: 3px;
+    width: 40vw;
+    box-shadow: 
+        inset -1px -1px #0a0a0a,
+        inset 1px 1px #dfdfdf,
+        inset -2px -2px grey,
+        inset 2px 2px #fff;
+}
+
+#title-bar {
+    align-items: center;
+    background: linear-gradient(90deg,navy,#1084d0);
+    display: flex;
+    justify-content: space-between;
+    padding: 3px 2px 3px 3px;
+    width: 100%;
+}
+
+h1 {
+    color: #fff;
+    letter-spacing: 0;
+    margin-right: 2vw;
+    font-weight: 700;
+    font-size: 12px;
+    margin: 0;
+}
+
+.title-bar-controls {
+    display: flex;
+}
+
+
+
+#top-h1 {
+    color: #FFFFFF;
+}
+
+p {
+    color: #D5D4D8;
+    font-size: 2vw;
+    margin: 0 0 2vw 0;
+}
+
+button {
+    font-weight: 500;
+    background-color: #10B981;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 0.3vw;
+    padding: 1vw 2vw;
+    cursor: pointer;
+    font-size: 1.5vw;
+}
+
+#password-controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 0 2vw 0;
+}
+
+#password-length {
+    font-size: 1.5vw;
+    color: #D5D4D8;
+    margin-left: 1vw;
+}
+
+input {
+    font-size: 1.5vw;
+    background-color: #2F3E53;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 0.3vw;
+    width: 5vw;
+    padding: 1vw 1vw ;
+    text-align: center;
+    margin-left: 0.5vw;
+}
+
+.line-break {
+    height: 0.07vw;
+    background-color: #2F3E53;
+    border: none;
+}
+
+#password-options {
+    display: flex;
+    align-items: center;
+    column-gap: 1vw;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2vw 0 2vw 0;
+}
