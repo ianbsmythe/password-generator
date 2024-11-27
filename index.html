@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="EN">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,7 +14,7 @@
     <main>
         
         <!-- top section wording -->
-        <section id="header-section">
+        <section id="header-section" role="banner">
             <h1 id="top-h1">Generate a</h1>
             <h1 id="bottom-h1">random password</h1>
             <p id="p-text">Never use an insecure password again.</p>
@@ -22,6 +22,7 @@
 
         <!-- password controls - button, password length choice -->
         <section id="password-controls">
+            <h2 id="password-controls-label" class="sr-only">Password Controls</h2>
             <button onclick="renderPasswords()">Generate passwords</button>
             <div id="password-length">
                 <label for="password-length">Password Length:</label>
