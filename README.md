@@ -7,13 +7,13 @@ Check out the live application here: [Random Password Generator](https://passwor
 
 ## 📸 Screenshots
 
-### 1. Landing Page
+### 1. Landing Page - Light Mode
 ![Landing Page](assets/Screenshot%202024-11-27%20144401.png)
 
-### 2. Password Generation
+### 2. Landing Page - Dark Mode
 ![Password Generation](assets/Screenshot%202024-11-27%20144420.png)
 
-### 3. Dark Mode Toggle
+### 3. Generate Password Button Clicked - Dark Mode
 ![Dark Mode Toggle](assets/Screenshot%202024-11-27%20144437.png)
 
 ## 🎨 Design Inspiration
