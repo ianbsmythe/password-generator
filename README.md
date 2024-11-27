@@ -8,13 +8,13 @@ Check out the live application here: [Random Password Generator](https://passwor
 ## 📸 Screenshots
 
 ### 1. Landing Page
-![Landing Page](path/to/screenshot1.png)
+![Landing Page](assets/Screenshot%202024-11-27%20144401.png)
 
 ### 2. Password Generation
-![Password Generation](path/to/screenshot2.png)
+![Password Generation](assets/Screenshot%202024-11-27%20144420.png)
 
 ### 3. Dark Mode Toggle
-![Dark Mode Toggle](path/to/screenshot3.png)
+![Dark Mode Toggle](assets/Screenshot%202024-11-27%20144437.png)
 
 ## 🎨 Design Inspiration
 The project was developed based on the design brief and mockup available on Figma:  
