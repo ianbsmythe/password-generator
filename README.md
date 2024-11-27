@@ -17,7 +17,7 @@ Check out the live application here: [Random Password Generator](https://passwor
 ![Dark Mode Toggle](assets/Screenshot%202024-11-27%20144437.png)
 
 ## 🎨 Design Inspiration
-The project was developed based on the design brief and mockup available on Figma:  
+This project adheres to a design specification outlined in a Figma mockup by Scrimba: 
 [Scrimba Figma Design Brief](https://www.figma.com/design/aEDNgiKWtHyLnWxEFGgGTH/Random-Password-Generator-(New-version)-(Copy)?node-id=0-1&node-type=canvas&t=wnkX0nVrd7Ih6Lna-0)
 
 ## 📋 Features
@@ -38,9 +38,6 @@ The project was developed based on the design brief and mockup available on Figm
 2. Select your desired password length using the input field (default is 10 characters).
 3. Click the "Generate passwords" button to create two secure passwords.
 4. Use the "Mode" button to switch between light and dark themes.
-
-## 📝 Design Brief
-This project adheres to a design specification outlined in a Figma mockup by Scrimba. You can view the design brief [here](https://www.figma.com/design/aEDNgiKWtHyLnWxEFGgGTH/Random-Password-Generator-(New-version)-(Copy)?node-id=0-1&node-type=canvas&t=wnkX0nVrd7Ih6Lna-0).
 
 ## 🤝 Contributions
 Contributions and feedback are welcome! Feel free to fork this repository, raise issues, or submit pull requests to enhance the project.
